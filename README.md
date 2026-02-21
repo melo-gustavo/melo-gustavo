@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a **Software Engineer** focused on **backend + web development**.
-- 🧱 I build **APIs and microservices** with **Python (FastAPI)** and **Node.js (NestJS)**, using **PostgreSQL**, **RabbitMQ**, and **Docker/CI-CD**.
-- 🌱 I’m currently learning **Vue 3** and deepening **Cloud/AWS** + **system design** (queues, observability, scalability).
+- 🧱 I build **APIs and microservices** with **Python (FastAPI)** and **Node.js (NestJS)**, using **PostgreSQL**, **RabbitMQ**, and **Docker/CI/CD**.
+- 🌱 I’m currently learning and building with **Vue 3 + Nuxt** and **React + Next.js**, and deepening **Cloud/AWS** + **system design** (queues, observability, scalability).
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +16,10 @@
   <img align="center" alt="Gustavo-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Gustavo-RabbitMQ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
   <img align="center" alt="Gustavo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Gustavo-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gustavo-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Gustavo-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Gustavo-NuxtJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="Gustavo-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Gustavo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gustavo-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
