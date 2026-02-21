@@ -4,13 +4,6 @@
 - 🧱 I build **APIs and microservices** with **Python (FastAPI)** and **Node.js (NestJS)**, using **PostgreSQL**, **RabbitMQ**, and **Docker/CI-CD**.
 - 🌱 I’m currently learning **Vue 3** and deepening **Cloud/AWS** + **system design** (queues, observability, scalability).
 
-<div align="center">
-  <a href="https://github.com/Gustavo-Melo-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Melo-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Melo-dev&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -24,11 +17,7 @@
   <img align="center" alt="Gustavo-RabbitMQ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
   <img align="center" alt="Gustavo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Gustavo-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-
-  <!-- Laravel FIX (o seu estava quebrando): use o oficial do Devicon -->
   <img align="center" alt="Gustavo-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-
-  <!-- Opcional: se você ainda usa/quer manter Java/Spring -->
   <img align="center" alt="Gustavo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gustavo-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </div>
@@ -36,13 +25,13 @@
 <hr>
 
 <div style="display: inline_block" align="center"> 
-  <a href="https://instagram.com/guumelo" target="_blank">
+  <a href="https://www.instagram.com/mel0_gustavo/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhpdKZGSjvMMhMsClcSWRZLxfwdMrStdgxvxXtJTJBdNkRFRpsTDqkRxVxZrpJxplkbBCQ" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/gustavo-melo-a3ba73199" target="_blank">
+  <a href="https://www.linkedin.com/in/melo-gustavo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
